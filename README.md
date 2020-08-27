@@ -1,0 +1,1 @@
+# semo_covid_api
